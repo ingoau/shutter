@@ -20,13 +20,13 @@
 	},
 	"dependencies": {
 		"croner": "^10.0.1",
-		"image-size": "^2.0.2",
+		"image-size": "^2.1.0",
 		"lucide-svelte": "^0.511.0",
 		"web-push": "^3.6.7"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-node": "^5.5.4",
-		"@sveltejs/kit": "^2.57.0",
+		"@sveltejs/kit": "^2.70.4",
 		"@sveltejs/vite-plugin-svelte": "^7.0.0",
 		"@tailwindcss/forms": "^0.5.11",
 		"@tailwindcss/vite": "^4.2.2",
@@ -42,6 +42,6 @@
 		"svelte-check": "^4.4.6",
 		"tailwindcss": "^4.2.2",
 		"typescript": "^6.0.2",
-		"vite": "^8.0.7"
+		"vite": "^8.3.8"
 	}
 }
